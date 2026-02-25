@@ -1,0 +1,1 @@
+print("%d eh o maior"%(sorted(list(map(int,input().split())))[-1]))
